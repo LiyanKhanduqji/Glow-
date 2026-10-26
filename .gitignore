@@ -1,0 +1,32 @@
+# Visual Studio temporary files
+.vs/
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Aa]rtifacts/
+
+# User-specific IDE settings
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Test results and coverage
+[Tt]est[Rr]esults/
+coverage/
+*.coverage
+*.coveragexml
+
+# NuGet package output
+*.nupkg
+*.snupkg
+
+# Local environment variables
+.env
+.env.*
+!.env.example
+
+# Operating system files
+Thumbs.db
+.DS_Store
